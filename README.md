@@ -1,3 +1,1 @@
-# Cognotio_CLuB
-AI FUNNY JOKE GENERATOR
-cONTACT GIVEN IN TEXTFILE
+https://huggingface.co/spaces/Kamlesh21/AIJOKER
